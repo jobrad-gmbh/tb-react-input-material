@@ -1,5 +1,5 @@
 {
-  "name": "react-input-material",
+  "name": "@jobrad-gmbh/react-input-material",
   "version": "0.0.520",
   "description": "Reusable material design based input field with support for (richt-)text, code, selections, numbers, dates and so on.",
   "keywords": [
